@@ -14,8 +14,8 @@ configs:
 
 # Romance book recommendations: "books like …" (multilingual)
 
-**455 reader requests with curated answers** in English, German, French, Spanish,
-Italian, Brazilian Portuguese and Dutch (de 106 · en 147 · es 47 · fr 62 · it 28 · nl 37 · pt-BR 28). Each request is something readers really
+**468 reader requests with curated answers** in English, German, French, Spanish,
+Italian, Brazilian Portuguese and Dutch (de 108 · en 150 · es 50 · fr 63 · it 29 · nl 39 · pt-BR 29). Each request is something readers really
 ask — *books like Maxton Hall*, *what to read after Culpa mía*, *authors like Ali Hazelwood* —
 answered with 2–3 recommendations from the [Mozaika Publications](https://mozaikallc.com/) catalog,
 each with a specific reason it fits, plus 5–7 comparable books from other authors and publishers.
