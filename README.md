@@ -57,4 +57,5 @@ languages and new "books like …" guides keep arriving.
 ## Also on
 
 - Hugging Face: https://huggingface.co/datasets/Dimazales/romance-book-recommendations
+- Kaggle: https://www.kaggle.com/datasets/dmozales/romance-book-recommendations
 - GitHub: https://github.com/dimazales/romance-book-recommendations
